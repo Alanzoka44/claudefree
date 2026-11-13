@@ -1,4 +1,14 @@
-# Black Primacy: materiais de WhatsApp
+# Black Primace: materiais de WhatsApp
+
+## As ofertas
+
+| Protocolo | De | Por | Desconto |
+|---|---|---|---|
+| Detox Hepático / Emagrecimento (4 semanas) | R$ 3.400,00 | **R$ 2.040,00** | 40% |
+| Cabelo e Unhas (4 semanas) | R$ 2.000,00 | **R$ 1.400,00** | 30% |
+| Detox Anti-inflamatório (4 semanas) | R$ 1.950,00 | **R$ 1.560,00** | 20% |
+| Ganho de Massa Muscular (4 semanas) | R$ 1.750,00 | **R$ 1.487,50** | 15% |
+| Plano de 6 meses de acompanhamento com o Dr. Rodrigo Dias | | **6x de R$ 400,00** | |
 
 ## Linha do tempo
 
@@ -16,22 +26,22 @@
 | Ter 24/11, 12h | Reabertura por 24h, 3 vagas (5 mensagens) |
 | Qua 25/11, 12h | Fechamento definitivo |
 
-**Campos para preencher:** [NOME] (paciente), [ATENDENTE], [DRA.], [LINK DO GRUPO], [LINK WHATSAPP] (de preferência um link wa.me com a mensagem "EU QUERO" já escrita), [PROTOCOLOS / PREÇOS], [PARCELAMENTO].
+**Campos para preencher:** [NOME] (paciente), [ATENDENTE], [LINK DO GRUPO], [LINK WHATSAPP] (de preferência um link wa.me com a mensagem "EU QUERO" já escrita), [PARCELAMENTO] dos protocolos de 4 semanas, [ENDEREÇO].
 
 ---
 
 ## 1. PV para a base: convite para o grupo (antecipação + curiosidade)
 
 **Quando:** 13/11 à tarde e 14/11.
-**Anexo:** a arte das ofertas com os **preços cobertos** (tarja, "R$ ???" ou desfoque). Assim a foto aparece, mas a curiosidade continua.
+**Anexo:** as artes das ofertas com os **preços cobertos** (tarja ou "R$ ???"). O nome dos protocolos aparece, os valores não.
 
-> Oi, [NOME]! Tudo bem? Aqui é a [ATENDENTE], do Instituto Primacy 💛
+> Oi, [NOME]! Tudo bem? Aqui é [ATENDENTE], do Instituto Primace 💚
 >
 > Vou te contar uma coisa antes de todo mundo, porque você já é paciente da casa.
 >
-> Na segunda-feira, *16/11, ao meio-dia*, a gente vai liberar a condição mais forte que o Primacy já fez nos *protocolos de injetáveis*.
+> Na segunda-feira, *16/11, ao meio-dia*, a gente vai liberar a condição mais forte que o Instituto já fez nos *protocolos injetáveis do Dr. Rodrigo*: emagrecimento, cabelo e unhas, anti-inflamatório e ganho de massa.
 >
-> Os valores eu ainda não posso te mostrar (por isso a foto vai assim, tampada 👀). Só te dou uma pista: tem protocolo aí que eu nunca vi sair por esse preço aqui na clínica.
+> Os valores eu ainda não posso te mostrar (por isso as fotos vão assim, tampadas 👀). Só te dou uma pista: tem protocolo saindo *quase pela metade do preço*.
 >
 > A revelação vai acontecer *só dentro do grupo da Black*. Quem não estiver lá não vai ver.
 >
@@ -41,28 +51,28 @@
 
 **Follow-up para quem não respondeu nem entrou (24h depois):**
 
-> [NOME], só passando pra ver se você conseguiu entrar no grupo 🙂 Segunda, 12h, a gente revela tudo lá. Vou ficar chateada se você ficar de fora dessa: [LINK DO GRUPO]
+> [NOME], só passando pra ver se você conseguiu entrar no grupo 🙂 Segunda, 12h, a gente revela tudo lá. Não fica de fora dessa: [LINK DO GRUPO]
 
 ---
 
 ## 2. PV para a base: escassez (manhã de 16/11)
 
 **Quando:** segunda, 16/11, entre 8h e 9h.
-**Anexo:** a mesma arte tampada, ou uma arte "HOJE, 12H".
+**Anexo:** as artes tampadas, ou uma arte "HOJE, 12H".
 
 > [NOME], hoje é o dia.
 >
-> Ao *meio-dia* a gente revela no grupo a oferta de injetáveis da Black Primacy. É a *melhor condição do ano* e eu não estou exagerando.
+> Ao *meio-dia* a gente revela no grupo as condições dos protocolos injetáveis da Black Primace. É a *melhor condição do ano* e eu não estou exagerando.
 >
-> Os horários são poucos, porque cada protocolo é feito pela [DRA.] pessoalmente. A agenda vai por ordem de chegada, e quem chega depois fica sem.
+> A agenda de aplicação é limitada, porque cada paciente passa pela avaliação do Dr. Rodrigo antes de começar. As vagas vão por ordem de chegada, e quem chega depois fica sem.
 >
-> E não vai ter "me manda o valor depois" nem "segura pra mim até semana que vem". Quando fechar, fechou, e a gente não vai repetir essa condição em dezembro.
+> E não vai ter "me manda o valor depois" nem "segura pra mim até semana que vem". Quando fechar, fechou, e essa condição não volta em dezembro.
 >
-> Se você já pensou em fazer toxina, preenchimento ou cuidar da pele antes das festas, a hora é essa.
+> Se você está cansado de viver cansado, de ver cabelo no ralo ou de fazer dieta sem a balança sair do lugar, a hora é essa.
 >
 > Entra agora, faltam poucas horas: [LINK DO GRUPO]
 
-> Obs.: deixei de fora o "nunca mais volta" de propósito. Como vai ter a reabertura no dia 24/11, quem receber essa mensagem vai ver depois que reabriu. "Quando fechar, fechou" e "não vai repetir em dezembro" fazem a mesma pressão sem queimar a credibilidade com a base.
+> Obs.: deixei de fora o "nunca mais volta" de propósito. Como vai ter a reabertura no dia 24/11, quem receber essa mensagem vai ver depois que reabriu. "Quando fechar, fechou" e "não volta em dezembro" fazem a mesma pressão sem queimar a credibilidade com a base.
 
 ---
 
@@ -74,86 +84,100 @@
 
 **Passo 1. Abertura + pergunta de dor**
 
-> Oi, [NOME]! Que bom que você chamou 💛 Aqui é a [ATENDENTE], do Primacy.
+> Oi, [NOME]! Que bom que você chamou 💚 Aqui é [ATENDENTE], do Instituto Primace.
 >
-> Pra eu te indicar o protocolo certo dentro da Black, me conta rapidinho: o que mais te incomoda hoje quando você se olha no espelho ou numa foto?
+> Pra eu te indicar o protocolo certo dentro da Black, me conta: o que mais te incomoda hoje?
 >
-> 1️⃣ Rugas na testa, em volta dos olhos ou entre as sobrancelhas
-> 2️⃣ Olheira, cara de cansada
-> 3️⃣ Lábios
-> 4️⃣ Contorno do rosto, papada, flacidez
-> 5️⃣ Pele sem viço, sem firmeza
+> 1️⃣ Gordura que não sai, inchaço, balança travada
+> 2️⃣ Queda de cabelo, unhas fracas ou quebradiças
+> 3️⃣ Cansaço o tempo todo, imunidade baixa, vive gripando
+> 4️⃣ Treina e não vê resultado, demora pra recuperar depois do treino
+> 5️⃣ Mais de um desses, quero cuidar da saúde como um todo
+
+**Qual protocolo oferecer:**
+
+| Resposta | Protocolo |
+|---|---|
+| 1 | Detox Hepático / Emagrecimento (R$ 2.040) |
+| 2 | Cabelo e Unhas (R$ 1.400) |
+| 3 | Detox Anti-inflamatório (R$ 1.560) |
+| 4 | Ganho de Massa Muscular (R$ 1.487,50) |
+| 5, ou quem cita várias dores | Plano de 6 meses com o Dr. Rodrigo (6x de R$ 400) |
 
 **Passo 2. Aprofundar (1 ou 2 perguntas, no máximo)**
 
-> E há quanto tempo isso te incomoda?
+> E há quanto tempo isso vem te incomodando?
 
-> Você já fez algum injetável antes ou seria a primeira vez?
+> Você já tentou alguma coisa pra resolver? Suplemento, dieta, outro tratamento?
 
-> Tem alguma data em que você queria estar bem? Festa de fim de ano, viagem, casamento...
+> Tem alguma data em que você queria estar melhor? Festas de fim de ano, férias, verão?
 
 **Passo 3. Espelhar a dor + recomendar + preço**
 
-> Entendi, [NOME]. Isso de [repetir a dor com as palavras dela, ex.: "parecer cansada mesmo dormindo bem"] é uma das coisas que a gente mais trata aqui, e tem solução.
+> Entendi, [NOME]. Isso de [repetir a dor com as palavras da pessoa, ex.: "acordar já cansado e se arrastar o dia inteiro"] é uma das coisas que o Dr. Rodrigo mais trata aqui.
 >
-> Pro seu caso, o indicado é o *[PROTOCOLO]*. Fora da Black ele sai por [PREÇO CHEIO]. Até *quarta, 18/11, ao meio-dia*, sai por *[PREÇO BLACK]*, em até [PARCELAMENTO].
+> Pro seu caso, o indicado é o *Protocolo [NOME DO PROTOCOLO]*, de 4 semanas. Fora da Black ele sai por [PREÇO CHEIO]. Até *quarta, 18/11, ao meio-dia*, sai por *[PREÇO BLACK]*, em até [PARCELAMENTO].
 >
-> [Se ela citou uma data:] E dá tempo certinho pra [DATA]: o resultado completo aparece em torno de 15 dias.
+> E começando agora, você termina as 4 semanas em meados de dezembro, antes das festas e do verão.
+
+**Para quem marcou a opção 5 (ou citou várias dores):**
+
+> Pelo que você me contou, faz mais sentido o *Plano de 6 meses de acompanhamento com o Dr. Rodrigo*. Em vez de tratar uma coisa só por 4 semanas, ele acompanha você de perto por meio ano e ajusta o tratamento conforme o seu corpo responde. Na Black fica *6x de R$ 400*.
 
 **Passo 4. Fechamento por escolha de horário (nunca perguntar "quer fechar?")**
 
-> Tenho horário com a [DRA.] [DIA] às [HORA] ou [DIA] às [HORA]. Qual fica melhor pra você?
+> Tenho horário pra sua primeira aplicação [DIA] às [HORA] ou [DIA] às [HORA]. Qual fica melhor pra você?
 
 > Perfeito! Pra garantir a vaga e a condição da Black, é só fazer o pagamento [do sinal de R$ X / do valor] por aqui: [PIX / LINK]. Assim que cair eu já te mando a confirmação.
 
 **Passo 5. Confirmação**
 
-> Prontinho, [NOME]! Seu horário está garantido: *[DIA], às [HORA]*, com a [DRA.]. Endereço: [ENDEREÇO]. Um dia antes eu te mando um lembrete 💛
+> Prontinho, [NOME]! Seu horário está garantido: *[DIA], às [HORA]*, no Instituto Primace. Endereço: [ENDEREÇO]. Um dia antes eu te mando um lembrete 💚
 
 #### Objeções
 
 **"Tá caro" / "Vou ver"**
 
-> Entendo. Só pra você ter a referência: esse mesmo protocolo sai por [PREÇO CHEIO] o ano todo. Na Black fica [PREÇO BLACK], em [PARCELAMENTO], o que dá [VALOR DA PARCELA] por mês. E essa condição acaba quarta ao meio-dia. Quer que eu veja o horário que fica melhor pra você?
+> Entendo. Só pra você ter a referência: esse protocolo sai por [PREÇO CHEIO] o ano todo. Na Black fica [PREÇO BLACK], em [PARCELAMENTO], o que dá [VALOR DA PARCELA] por mês. E essa condição acaba quarta ao meio-dia. Quer que eu veja o horário que fica melhor pra você?
 
 **"Vou pensar"**
 
-> Claro! Me conta: o que ficou te segurando? É valor, horário ou alguma dúvida sobre o procedimento? Pergunto porque às vezes é uma coisa que eu resolvo aqui em um minuto.
+> Claro! Me conta: o que ficou te segurando? É valor, horário ou alguma dúvida sobre o protocolo? Pergunto porque às vezes é uma coisa que eu resolvo aqui em um minuto.
 
-> [Se continuar indecisa:] Posso segurar o horário de [DIA/HORA] pra você por 2 horas, sem compromisso. Se não fizer sentido, eu libero pra próxima da fila. Combinado?
+> [Se continuar na dúvida:] Posso segurar o horário de [DIA/HORA] pra você por 2 horas, sem compromisso. Se não fizer sentido, eu libero pra próxima pessoa da fila. Combinado?
 
-**"Preciso falar com meu marido"**
+**"Preciso falar com meu marido / minha esposa"**
 
-> Faz todo sentido! Quer que eu te mande um resumo com o protocolo, o valor e o parcelamento pra você mostrar pra ele? Enquanto isso, eu seguro seu horário até [HORA].
+> Faz todo sentido! Quer que eu te mande um resumo com o protocolo, o valor e o parcelamento pra você mostrar? Enquanto isso, eu seguro seu horário até [HORA].
 
-**"Tenho medo de ficar artificial"**
+**"Isso funciona mesmo? Não é só tomar vitamina em cápsula?"**
 
-> Esse é o medo número um de quem nunca fez, e é exatamente por isso que a [DRA.] avalia o seu rosto antes e aplica só o que ele precisa. A ideia é as pessoas acharem que você descansou ou mudou o cabelo, sem saber o que foi.
+> Ótima pergunta. No injetável, o nutriente vai direto pro organismo, sem depender do que o intestino consegue absorver. E cada protocolo é montado pelo Dr. Rodrigo pra um objetivo específico: emagrecimento, cabelo, músculo ou imunidade. Antes de começar ele avalia você e ajusta o que for preciso.
 
 **"Dói?"**
 
-> A agulha é bem fininha e a [DRA.] usa [ANESTÉSICO / TÉCNICA]. A maioria das pacientes descreve como uma picadinha rápida. O procedimento leva em torno de [TEMPO] e você volta pra rotina no mesmo dia.
+> É uma aplicação rápida, com agulha fininha. A maioria dos pacientes sente só uma picadinha. Você faz a aplicação e volta pra rotina na mesma hora. [Ajustar à via de aplicação usada pela clínica.]
 
-**"Nunca fiz, tenho medo"**
+**"Preciso fazer dieta junto?" / "Vou ter que mudar tudo?"**
 
-> É super normal! Muitas pacientes da Black estão fazendo pela primeira vez. Antes de qualquer aplicação a [DRA.] conversa com você, explica tudo e tira suas dúvidas. Nada é feito sem você estar segura.
+> O Dr. Rodrigo te orienta no que for importante pro seu objetivo, mas o protocolo foi pensado pra caber na sua rotina. Você vem pras aplicações e ele acompanha a sua evolução.
 
 **"Meu cartão está sem limite"**
 
 > A gente resolve: dá pra dividir entre dois cartões, ou pagar uma parte no Pix e o restante no cartão. [Ajustar à política da clínica.] Qual fica melhor pra você?
 
-**"Agora não tenho agenda / só consigo em dezembro"**
+**"Agora não tenho agenda / só consigo começar em dezembro"**
 
-> Sem problema! Você garante a condição da Black agora e agenda a aplicação até [DATA LIMITE]. O importante é travar o preço antes de quarta ao meio-dia.
+> Sem problema! Você garante a condição da Black agora e começa até [DATA LIMITE]. O importante é travar o preço antes de quarta ao meio-dia.
 
 #### Follow-up para quem parou de responder
 
 - **+2h:**
-  > [NOME], consegui segurar o horário de [DIA/HORA] pra você por mais um tempinho. Me avisa se posso confirmar? 💛
+  > [NOME], consegui segurar o horário de [DIA/HORA] pra você por mais um tempinho. Me avisa se posso confirmar? 💚
 - **Manhã seguinte:**
-  > Bom dia, [NOME]! Ontem foram [X] horários preenchidos. Ainda tenho [DIA/HORA] disponível pro [PROTOCOLO]. Fecho pra você?
+  > Bom dia, [NOME]! Ontem foram [X] horários preenchidos. Ainda tenho [DIA/HORA] disponível pro protocolo de [PROTOCOLO]. Fecho pra você?
 - **18/11, 9h (3h antes de fechar):**
-  > [NOME], a Black fecha hoje ao meio-dia. Depois disso o [PROTOCOLO] volta pra [PREÇO CHEIO]. Quer que eu garanta o seu antes de acabar?
+  > [NOME], a Black fecha hoje ao meio-dia. Depois disso o protocolo de [PROTOCOLO] volta pra [PREÇO CHEIO]. Quer que eu garanta o seu antes de acabar?
 
 ### 3B. Quem está no grupo e não se manifestou
 
@@ -161,139 +185,139 @@
 
 **Mensagem 1 (leve, sem cara de venda):**
 
-> Oi, [NOME]! Aqui é a [ATENDENTE], do Primacy 💛 Vi que você está no grupo da Black e fiquei curiosa: alguma das condições de hoje te chamou atenção?
+> Oi, [NOME]! Aqui é [ATENDENTE], do Instituto Primace 💚 Vi que você está no grupo da Black e fiquei curiosa: algum dos protocolos de hoje te chamou atenção?
 
 **Mensagem 2 (3h depois, sem resposta):**
 
-> Pergunto porque às vezes a pessoa nem sabe qual protocolo é pra ela. Se você me disser o que mais te incomoda hoje (testa, olheira, lábios, contorno ou pele), eu te digo em um minuto o que faz sentido e quanto fica na Black. Sem compromisso nenhum.
+> Pergunto porque às vezes a pessoa nem sabe qual protocolo é pra ela. Se você me disser o que mais te incomoda hoje (peso, cabelo, cansaço ou treino), eu te digo em um minuto qual faz sentido e quanto fica na Black. Sem compromisso nenhum.
 
-**Se ela responder com uma dor:** seguir o 3A a partir do Passo 2.
+**Se responder com uma dor:** seguir o 3A a partir do Passo 2.
 
 **Se responder "só estou olhando":**
 
-> Tranquilo! Só pra você saber: a condição vai até quarta ao meio-dia e a agenda já está com [X]% dos horários preenchidos. Se quiser, eu seguro um horário provisório por 2h enquanto você pensa. Sem compromisso.
+> Tranquilo! Só pra você saber: a condição vai até quarta ao meio-dia e a agenda de aplicação já está com [X]% dos horários preenchidos. Se quiser, eu seguro um horário provisório por 2h enquanto você pensa. Sem compromisso.
 
 **Última mensagem (18/11, 9h):**
 
-> [NOME], última mensagem minha sobre isso, prometo 🙂 A Black fecha hoje ao meio-dia. Se tiver qualquer coisa te incomodando no espelho, essa é a melhor condição que a gente vai ter no ano. Me chama que eu resolvo rapidinho.
+> [NOME], última mensagem minha sobre isso, prometo 🙂 A Black fecha hoje ao meio-dia. O Detox Hepático, por exemplo, está saindo de R$ 3.400 por R$ 2.040. Não vai ter condição melhor que essa no ano. Me chama que eu resolvo rapidinho.
 
 **Versão para a reabertura (24/11, 12h), só para quem não fechou:**
 
-> [NOME], abrimos 3 horários extras com a condição da Black, só até amanhã ao meio-dia. Lembrei de você. Quer que eu reserve um?
+> [NOME], abrimos 3 vagas extras com a condição da Black, só até amanhã ao meio-dia. Lembrei de você. Quer que eu reserve uma?
 
 ---
 
 ## 4. Cronograma de aquecimento (13/11 a 16/11)
 
-Os textos falam diretamente de dor e desejo. As imagens alternam com os vídeos de bolinha. Cada roteiro de vídeo tem no máximo uns 30 segundos de fala.
+Cada peça bate numa dor concreta de um dos protocolos e termina puxando para segunda, 12h. As imagens alternam com os vídeos de bolinha do Dr. Rodrigo. Cada roteiro de vídeo tem no máximo uns 30 segundos de fala.
 
-| Dia | Hora | Formato | Tema |
-|---|---|---|---|
-| Sex 13/11 | 12h | Vídeo + enquete | Abertura (já programado) |
-| Sex 13/11 | 16h | Imagem | "Relembre este dia, há 3 anos" |
-| Sex 13/11 | 20h | Vídeo | As 3 frases que a Dra. mais escuta |
-| Sáb 14/11 | 10h | Imagem | "Você dormiu 8 horas" |
-| Sáb 14/11 | 15h | Vídeo | A ruga do bravo |
-| Sáb 14/11 | 20h | Imagem | Faltam 41 dias para o Natal |
-| Dom 15/11 | 10h | Vídeo | Teste da câmera frontal |
-| Dom 15/11 | 15h | Imagem | E se você não precisasse de base? |
-| Dom 15/11 | 20h | Vídeo | Medo de ficar artificial |
-| Seg 16/11 | 9h | Imagem | É hoje, 12h |
-| Seg 16/11 | 11h | Vídeo | Falta 1 hora |
-| Seg 16/11 | 12h | Imagem | Revelação + abertura |
+| Dia | Hora | Formato | Tema | Protocolo |
+|---|---|---|---|---|
+| Sex 13/11 | 12h | Vídeo + enquete | Abertura (já programado) | |
+| Sex 13/11 | 16h | Imagem | Cabelo no ralo | Cabelo e Unhas |
+| Sex 13/11 | 20h | Vídeo | As 3 frases que o Dr. mais escuta | Todos |
+| Sáb 14/11 | 10h | Imagem | Três cafés pra aguentar o dia | Anti-inflamatório |
+| Sáb 14/11 | 15h | Vídeo | Dieta, academia e a barriga lá | Detox Hepático |
+| Sáb 14/11 | 20h | Imagem | Faltam 41 dias pro Natal | Todos |
+| Dom 15/11 | 10h | Vídeo | A calça que aperta às 18h | Anti-inflamatório / Detox Hepático |
+| Dom 15/11 | 15h | Imagem | Acordar antes do despertador | Desejo |
+| Dom 15/11 | 20h | Vídeo | "Não é só tomar vitamina?" | Todos |
+| Seg 16/11 | 9h | Imagem | É hoje, 12h | |
+| Seg 16/11 | 11h | Vídeo | Falta 1 hora | |
+| Seg 16/11 | 12h | Imagens | Revelação + abertura | |
 
 ### Sex 13/11, 16h · IMAGEM
-**Arte:** print de celular com a notificação "Relembre este dia: há 3 anos".
+**Arte:** foto de fios de cabelo acumulados no ralo do box.
 
-> Sabe aquela notificação do celular, *"Relembre este dia, há 3 anos"*?
+> Quantos fios ficaram no ralo hoje?
 >
-> Você abre, vê a foto e pensa: "nossa, como eu estava diferente".
+> E no travesseiro? Na escova? No chão do banheiro?
 >
-> E fecha rapidinho, pra não ter que comparar com a de hoje.
+> O rabo de cavalo que antes dava duas voltas no elástico agora dá três. A unha que você deixa crescer e quebra no meio da semana.
 >
-> Se isso já aconteceu com você, fica por aqui. Segunda, ao meio-dia, a gente vai falar sobre isso 👀
+> Se isso está acontecendo com você, fica por aqui. Segunda, ao meio-dia, a gente vai falar sobre isso 👀
 
 ### Sex 13/11, 20h · VÍDEO
-**Local:** sala de injetáveis, [DRA.] sentada ao lado da maca.
+**Local:** sala de aplicação, Dr. Rodrigo ao lado das poltronas.
 
-> "Quer saber as três frases que eu mais escuto nesta cadeira? 'Doutora, as pessoas acham que eu estou cansada.' 'Eu pareço brava o tempo todo, e eu nem sou brava.' E a que mais me pega: 'eu não gosto mais de aparecer nas fotos.' Se alguma dessas é sua, segunda-feira, ao meio-dia, eu vou te mostrar o que dá pra fazer. Fica no grupo."
+> "Quer saber as três frases que eu mais escuto aqui no consultório? 'Doutor, eu acordo mais cansada do que fui dormir.' 'Eu faço dieta, treino, e a balança não sai do lugar.' E 'meu cabelo está caindo aos tufos'. Se alguma dessas é sua, segunda-feira, ao meio-dia, eu vou te mostrar o que dá pra fazer. Fica no grupo."
 
 ### Sáb 14/11, 10h · IMAGEM
-**Arte:** fundo escuro, texto grande "Você dormiu 8 horas."
+**Arte:** três xícaras de café vazias em cima de uma mesa de trabalho.
 
-> Você dormiu 8 horas.
+> O despertador toca e você aperta a soneca três vezes.
 >
-> Tomou água, passou o creme, fez tudo certinho.
+> Primeiro café pra conseguir levantar. Segundo pra funcionar. Terceiro às 15h, pra não dormir em cima do teclado.
 >
-> Aí chega no trabalho e alguém solta: *"Nossa, noite difícil?"*
+> Aí chega a noite, você deita exausto e o sono não vem.
 >
-> A noite foi ótima. Quem te entregou foram a olheira e o vinco que ficam aí mesmo quando você está descansada.
->
-> Segunda, 12h, tem novidade sobre isso. Só aqui no grupo.
+> Viver cansado virou o seu normal, e não deveria ser. Segunda, 12h, só aqui no grupo.
 
 ### Sáb 14/11, 15h · VÍDEO
-**Local:** espelho da sala de injetáveis. A [DRA.] aponta para a região entre as sobrancelhas.
+**Local:** consultório, Dr. Rodrigo sentado à mesa.
 
-> "Esse risquinho aqui, entre as sobrancelhas, tem apelido: ruga do bravo. Ele faz você parecer irritada até quando está feliz. Na reunião, na foto, conversando com seu filho. E com o tempo ele fica marcado mesmo com o rosto parado. Dá pra tratar com uma aplicação rápida, aqui nesta sala. Segunda, ao meio-dia, você vai entender por que essa é a semana pra fazer."
+> "Você cortou o pão, cortou o doce, vai pra academia quatro vezes por semana. E a gordura da barriga continua lá, igualzinha. Isso é muito comum, e muitas vezes o problema é um organismo inflamado e sobrecarregado, que trava a perda de gordura. Dá pra tratar isso de dentro pra fora. Segunda, ao meio-dia, eu te mostro como."
 
 ### Sáb 14/11, 20h · IMAGEM
 **Arte:** calendário com o dia 25/12 circulado e o número "41 dias".
 
-> Faltam *41 dias* pro Natal.
+> Faltam *41 dias* pro Natal. E o verão começa logo depois.
 >
-> E as fotos de fim de ano ficam com você pra sempre: a da ceia, a do Réveillon, a da praia.
+> Os protocolos do Instituto duram 4 semanas. Quem começa na segunda termina em meados de dezembro: a tempo da ceia, do Réveillon e da praia.
 >
-> A toxina leva em média 15 dias pra mostrar o efeito completo. Quem faz agora chega nas festas com o resultado pronto, sem cara de "acabei de fazer".
+> Com mais energia, a roupa servindo melhor e o cabelo mais forte nas fotos.
 >
 > Segunda, 12h, eu te mostro como 🎄
 
 ### Dom 15/11, 10h · VÍDEO
-**Local:** recepção ou corredor da clínica. A [DRA.] segura o celular com a câmera frontal aberta.
+**Local:** recepção ou corredor da clínica, Dr. Rodrigo de pé.
 
-> "Faz um teste comigo? Abre a câmera frontal agora, sem filtro, com a luz vindo de cima. Viu o que aparece? A sombra embaixo do olho, o bigode chinês mais fundo, o contorno do rosto menos definido. É assim que as pessoas te veem quando você não está posando. Amanhã, ao meio-dia, eu abro aqui no grupo uma condição pra você mudar isso."
+> "Me fala se isso acontece com você: de manhã a calça fecha fácil e às seis da tarde ela está apertando. O anel não sai do dedo. Você acorda com o rosto inchado e a barriga estufada depois de qualquer refeição. Isso tem nome: inflamação. E ela atrapalha energia, peso e até a imunidade. Amanhã, ao meio-dia, eu abro aqui no grupo uma condição pra você tratar isso."
 
 ### Dom 15/11, 15h · IMAGEM (desejo)
-**Arte:** mulher sorrindo, sem maquiagem, luz natural. Texto: "E se você não precisasse de base?"
+**Arte:** pessoa acordando com luz natural, espreguiçando, sorrindo.
 
-> Imagina acordar, lavar o rosto e sair.
+> Imagina acordar antes do despertador, com disposição de verdade.
 >
-> Sem 40 minutos de corretivo. Sem filtro na foto. Sem ficar procurando seu melhor ângulo.
+> O treino rendendo. A calça folgando na cintura. A escova saindo limpa depois de pentear o cabelo.
 >
-> E alguém te olhar e perguntar: *"O que você fez? Tá diferente... tá ótima."*
+> E alguém te perguntar: *"O que você anda fazendo? Tá com outra cara."*
 >
-> Amanhã, ao meio-dia 💛
+> Amanhã, ao meio-dia 💚
 
 ### Dom 15/11, 20h · VÍDEO (quebra de objeção)
-**Local:** sala de injetáveis. A [DRA.] mostra o material lacrado.
+**Local:** sala de aplicação, Dr. Rodrigo mostrando o material lacrado.
 
-> "O maior medo de quem nunca fez injetável é ficar artificial. Boca exagerada, testa congelada, aquela cara de 'fez alguma coisa'. Aqui eu avalio o seu rosto antes e aplico só o que ele precisa. O objetivo é as pessoas acharem que você descansou ou mudou o cabelo. Amanhã, ao meio-dia, eu revelo os valores. E já aviso: a agenda é pequena."
+> "Muita gente me pergunta: 'Doutor, não é só tomar vitamina em cápsula?' No injetável, o nutriente vai direto pro organismo, sem depender do que o seu intestino consegue absorver. E cada protocolo é montado pra um objetivo: emagrecer, segurar a queda de cabelo, ganhar massa, melhorar a imunidade. Amanhã, ao meio-dia, eu revelo as condições. E já aviso: a agenda de aplicação é pequena."
 
 ### Seg 16/11, 9h · IMAGEM
-**Arte:** "HOJE, 12H" sobre a arte das ofertas desfocada.
+**Arte:** "HOJE, 12H" sobre as artes das ofertas desfocadas.
 
 > É hoje ⏰
 >
-> Ao meio-dia eu revelo aqui a condição de injetáveis da Black Primacy.
+> Ao meio-dia eu revelo aqui as condições dos protocolos injetáveis da Black Primace.
 >
-> Deixa o grupo fixado e a notificação ligada. Os horários são poucos e vão por ordem de chegada.
+> Deixa o grupo fixado e a notificação ligada. As vagas são poucas e vão por ordem de chegada.
 
 ### Seg 16/11, 11h · VÍDEO
-**Local:** sala de injetáveis. A [DRA.] organiza a sala.
+**Local:** sala de aplicação. Dr. Rodrigo organiza as poltronas.
 
-> "Falta uma hora. Tô aqui arrumando a sala, porque a partir de hoje essa agenda vai encher rápido. São poucos horários comigo e, quando acabar, acabou. Ao meio-dia eu solto tudo aqui no grupo. Quem quiser garantir, já deixa o WhatsApp aberto."
+> "Falta uma hora. Tô aqui preparando a sala de aplicação, porque a partir de hoje essa agenda vai encher rápido. São poucas vagas e, quando acabar, acabou. Ao meio-dia eu solto tudo aqui no grupo. Quem quiser garantir, já deixa o WhatsApp aberto."
 
-### Seg 16/11, 12h · REVELAÇÃO (IMAGEM com as ofertas)
+### Seg 16/11, 12h · REVELAÇÃO
+Mandar as 5 artes de oferta em sequência e, logo depois, o texto:
 
-> 🖤 *A BLACK PRIMACY ESTÁ ABERTA* 🖤
+> 🖤 *A BLACK PRIMACE ESTÁ ABERTA* 🖤
 >
-> Chegou a hora. Esses são os protocolos de injetáveis com a melhor condição do ano:
+> Chegou a hora. Esses são os protocolos injetáveis do Dr. Rodrigo com a melhor condição do ano:
 >
-> ▪️ [PROTOCOLO 1]: de [R$] por *[R$]*
-> ▪️ [PROTOCOLO 2]: de [R$] por *[R$]*
-> ▪️ [PROTOCOLO 3]: de [R$] por *[R$]*
+> 🔥 *Detox Hepático / Emagrecimento:* de R$ 3.400 por *R$ 2.040* (40% off)
+> 💇 *Cabelo e Unhas:* de R$ 2.000 por *R$ 1.400* (30% off)
+> 🛡️ *Detox Anti-inflamatório:* de R$ 1.950 por *R$ 1.560*
+> 💪 *Ganho de Massa Muscular:* de R$ 1.750 por *R$ 1.487,50*
+> 👨‍⚕️ *6 meses de acompanhamento com o Dr. Rodrigo:* *6x de R$ 400*
 >
-> 💳 Em até [PARCELAMENTO]
-> ⏳ Válido até *quarta, 18/11, ao meio-dia*, ou enquanto houver horários
+> ⏳ Válido até *quarta, 18/11, ao meio-dia*, ou enquanto houver vagas.
 >
 > Pra garantir o seu, clique e mande *EU QUERO* pra nossa equipe:
 > 👉 [LINK WHATSAPP]
@@ -304,29 +328,29 @@ Os textos falam diretamente de dor e desejo. As imagens alternam com os vídeos 
 
 | Dia | Hora | Formato | Mensagem |
 |---|---|---|---|
-| Seg 16/11 | 15h | Vídeo | **Sala de injetáveis.** "Ficou na dúvida de qual protocolo é pra você? Te incomoda testa, olho ou ruga do bravo: é a toxina. Olheira, lábio ou contorno: preenchimento. Pele flácida, sem firmeza: bioestimulador. Não sabe? Manda EU QUERO pra equipe que a gente te ajuda a escolher. Vai até quarta ao meio-dia." *(ajustar aos protocolos reais)* |
-| Seg 16/11 | 20h | Imagem | Print da agenda com os nomes borrados. "Em 8 horas, *[X] horários* já foram preenchidos. Obrigada pela confiança 💛 Ainda dá tempo: [LINK WHATSAPP]" |
-| Ter 17/11 | 10h | Vídeo | **Sala de injetáveis.** "Muita gente me perguntou ontem se dói. É uma picadinha rápida, com agulha bem fina, e você volta pra rotina no mesmo dia. O que dói mesmo é passar mais um fim de ano escondida nas fotos. Vai até amanhã ao meio-dia." |
-| Ter 17/11 | 15h | Imagem | "*Metade da agenda* da Black já foi. Se você está esperando o momento certo, é agora: [LINK WHATSAPP]" |
-| Ter 17/11 | 20h | Vídeo | **Recepção.** "Amanhã ao meio-dia a Black fecha. Depois disso os valores voltam ao normal e eu não seguro horário pra ninguém. Se você está pensando, me chama hoje ainda." |
-| Qua 18/11 | 9h | Imagem | "⏳ *Últimas 3 horas.* Ao meio-dia a Black Primacy encerra. [LINK WHATSAPP]" |
-| Qua 18/11 | 11h | Vídeo | **Sala de injetáveis.** "Última hora. Restam [X] horários. Quem mandar mensagem agora ainda pega a condição. Ao meio-dia em ponto, eu fecho." |
-| Qua 18/11 | 12h | Imagem | "🖤 *Black Primacy encerrada.* Obrigada a todas que garantiram o seu horário. A gente se vê na clínica 💛" |
+| Seg 16/11 | 15h | Vídeo | **Consultório.** "Na dúvida de qual protocolo é pra você? Se o problema é peso ou inchaço, é o Detox Hepático. Cabelo caindo ou unha quebrando, Cabelo e Unhas. Vive cansado e gripando, o Anti-inflamatório. Treina e não evolui, Ganho de Massa. E se é tudo isso junto, o plano de 6 meses comigo. Manda EU QUERO que a equipe te ajuda a escolher." |
+| Seg 16/11 | 20h | Imagem | Print da agenda com os nomes borrados. "Em 8 horas, *[X] vagas* já foram preenchidas. Obrigado pela confiança 💚 Ainda dá tempo: [LINK WHATSAPP]" |
+| Ter 17/11 | 10h | Vídeo | **Sala de aplicação.** "Pra quem treina: sabe aquela dor que dura três dias depois do treino de perna? Aquela sensação de que você treina, treina e o corpo não responde? O protocolo de Ganho de Massa foi feito pra isso: recuperar mais rápido e render mais. Está saindo de R$ 1.750 por R$ 1.487. Vai até amanhã ao meio-dia." |
+| Ter 17/11 | 15h | Imagem | "*Metade das vagas* da Black já foi. Se você está esperando o momento certo, é agora: [LINK WHATSAPP]" |
+| Ter 17/11 | 20h | Vídeo | **Recepção.** "Amanhã ao meio-dia a Black fecha. O Detox Hepático, que sai por R$ 3.400 o ano inteiro, está por R$ 2.040. Depois disso os valores voltam ao normal e eu não seguro vaga pra ninguém. Se você está pensando, chama a equipe hoje ainda." |
+| Qua 18/11 | 9h | Imagem | "⏳ *Últimas 3 horas.* Ao meio-dia a Black Primace encerra. [LINK WHATSAPP]" |
+| Qua 18/11 | 11h | Vídeo | **Sala de aplicação.** "Última hora. Restam [X] vagas. Quem mandar mensagem agora ainda pega a condição. Ao meio-dia em ponto, a gente fecha." |
+| Qua 18/11 | 12h | Imagem | "🖤 *Black Primace encerrada.* Obrigado a todos que garantiram a sua vaga. A gente se vê no Instituto 💚" |
 
 ---
 
 ## 5. Pós-fechamento: efeito inveja (18/11 a 23/11)
 
-Uma ou duas postagens por dia, só bastidores reais: pacientes na clínica, na sala de injetáveis, na recepção. Ainda é cedo para mostrar resultado (a toxina leva uns 15 dias), então o foco é "elas já estão aqui aproveitando".
+Uma ou duas postagens por dia, só bastidores reais: pacientes nas poltronas de aplicação, na recepção, conversando com o Dr. Rodrigo. O tom é "quem fechou já está aqui começando".
 
 | Dia | Hora | Formato | Mensagem |
 |---|---|---|---|
 | Qua 18/11 | 18h | Imagem | Agenda lotada (nomes borrados). "Agenda da Black fechada. Esse foi o nosso dezembro sendo preenchido em 48 horas 🖤" |
-| Qui 19/11 | 15h | Vídeo | Paciente na cadeira, antes da aplicação, falando com a câmera: "Fechei na Black e já estou aqui!" *(com autorização)* |
-| Sex 20/11 | 12h | Imagem | Foto ou print de depoimento: "Que atendimento! Já quero voltar." "Mais uma paciente da Black passando por aqui hoje 💛" |
-| Sex 20/11 | 19h | Vídeo | **[DRA.]:** "Essa semana foi corrida demais. Foram [X] pacientes da Black, muita gente fazendo pela primeira vez. Tô muito feliz." |
-| Sáb 21/11 | 11h | Imagem | Colagem de 3 ou 4 pacientes na clínica (com autorização). "Elas aproveitaram 🖤" |
-| Dom 22/11 | 18h | Vídeo | Bastidor da sala sendo preparada pra semana: "Amanhã começa mais uma semana cheia de pacientes da Black." |
+| Qui 19/11 | 15h | Vídeo | Paciente na poltrona, durante a aplicação, falando com a câmera: "Fechei na Black e já comecei!" *(com autorização)* |
+| Sex 20/11 | 12h | Imagem | Foto ou print de depoimento: "Atendimento incrível, já marquei a próxima." "Mais um paciente da Black começando o protocolo hoje 💚" |
+| Sex 20/11 | 19h | Vídeo | **Dr. Rodrigo:** "Essa semana foi corrida demais. Foram [X] pacientes da Black começando protocolo, muita gente fazendo pela primeira vez. Tô muito feliz." |
+| Sáb 21/11 | 11h | Imagem | Colagem de 3 ou 4 pacientes na clínica (com autorização). "Eles aproveitaram 🖤" |
+| Dom 22/11 | 18h | Vídeo | Bastidor da sala de aplicação sendo preparada: "Amanhã começa mais uma semana cheia de pacientes da Black." |
 
 ### Seg 23/11: anúncio da reabertura
 
@@ -340,27 +364,27 @@ Uma ou duas postagens por dia, só bastidores reais: pacientes na clínica, na s
 > *"Eu esqueci, quando vi já tinha fechado."*
 > *"Deixei pra depois e me arrependi."*
 >
-> A [DRA.] conversou com a equipe e a gente conseguiu abrir *3 horários extras*. Só 3.
+> O Dr. Rodrigo conversou com a equipe e a gente conseguiu abrir *3 vagas extras*. Só 3.
 >
-> Amanhã, *terça, ao meio-dia*, a Black reabre por *24 horas*, com a mesma condição. Quem chegar primeiro leva.
+> Amanhã, *terça, ao meio-dia*, a Black reabre por *24 horas*, com as mesmas condições. Quem chegar primeiro leva.
 
-**19h · VÍDEO** (sala de injetáveis)
+**19h · VÍDEO** (sala de aplicação)
 
-> "Eu não ia reabrir. Mas recebi tanta mensagem de gente que queria muito e não conseguiu que eu reorganizei a minha agenda e abri três horários. Só três. Amanhã ao meio-dia, com a mesma condição da Black. Quando acabar, acabou mesmo."
+> "Eu não ia reabrir. Mas recebi tanta mensagem de gente que queria muito e não conseguiu que eu reorganizei a agenda e abri três vagas. Só três. Amanhã ao meio-dia, com as mesmas condições da Black. Quando acabar, acabou mesmo."
 
 ### Ter 24/11: 5 mensagens da reabertura
 
 | Hora | Formato | Mensagem |
 |---|---|---|
-| 9h | Imagem | "Hoje, ao meio-dia ⏰ *3 vagas* com a condição da Black Primacy. Deixa o WhatsApp aberto." |
-| 12h | Imagem (ofertas) | "🖤 *REABRIMOS.* 3 vagas, mesma condição, por 24 horas ou até acabar. Clique e mande *EU QUERO*: [LINK WHATSAPP]" |
-| 15h | Vídeo | **[DRA.]:** "Já foi [1/2] vaga. Sobrou [X]. Quem estava esperando uma segunda chance, ela é agora." |
-| 19h | Imagem | "Resta *[X] vaga*. Depois disso, a condição da Black acaba de vez." |
-| 22h | Vídeo | **[DRA.]:** "Última chamada do dia. A reabertura fecha amanhã ao meio-dia, ou antes, se a última vaga for preenchida hoje. Não deixa pra amanhã de manhã." |
+| 9h | Imagem | "Hoje, ao meio-dia ⏰ *3 vagas* com as condições da Black Primace. Deixa o WhatsApp aberto." |
+| 12h | Imagens (as 5 ofertas) | "🖤 *REABRIMOS.* 3 vagas, mesmas condições, por 24 horas ou até acabar. Clique e mande *EU QUERO*: [LINK WHATSAPP]" |
+| 15h | Vídeo | **Dr. Rodrigo:** "Já foi [1/2] vaga. Sobrou [X]. Quem estava esperando uma segunda chance, ela é agora." |
+| 19h | Imagem | "Resta *[X] vaga*. Depois disso, as condições da Black acabam de vez." |
+| 22h | Vídeo | **Dr. Rodrigo:** "Última chamada do dia. A reabertura fecha amanhã ao meio-dia, ou antes, se a última vaga sair hoje. Não deixa pra amanhã de manhã." |
 
 **Qua 25/11, 12h (ou na hora que a última vaga sair):**
 
-> 🖤 *Esgotado.* As 3 vagas extras foram preenchidas. Obrigada, e até a próxima 💛
+> 🖤 *Esgotado.* As 3 vagas extras foram preenchidas. Obrigado, e até a próxima 💚
 
 Se as 3 vagas acabarem antes do prazo, mandem o "Esgotado" na hora. Fechar antes do horário reforça que a escassez era real.
 
@@ -368,6 +392,7 @@ Se as 3 vagas acabarem antes do prazo, mandem o "Esgotado" na hora. Fechar antes
 
 ## Pontos de atenção
 
-- **Fotos e vídeos de pacientes:** só com autorização por escrito de cada uma.
-- **Regras do conselho:** antes/depois e divulgação de preço de procedimento têm regras no conselho do profissional que aplica (CFM, CFO, CFBM etc.). Vale confirmar com o responsável técnico da clínica antes de soltar as artes com valores.
-- **Números ao vivo** (horários preenchidos, vagas restantes): atualizar com os dados reais na hora de enviar.
+- **Promessas de resultado:** os textos ficam dentro do que as artes já dizem (auxílio na queda, perda de gordura, recuperação, imunidade), sem prometer quilos nem prazo de resultado. Vale o Dr. Rodrigo validar as falas dos vídeos antes de gravar, principalmente a do "direto pro organismo".
+- **Fotos e vídeos de pacientes:** só com autorização por escrito de cada um.
+- **Regras do conselho:** divulgação de preço de procedimento tem regras no CFM. Confirmar com o Dr. Rodrigo antes de soltar as artes com valores.
+- **Números ao vivo** (vagas preenchidas, vagas restantes): atualizar com os dados reais na hora de enviar.
